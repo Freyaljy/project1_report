@@ -1,9 +1,16 @@
 # stats220
+
 *My name is jingyi Liu*
-My UPI id jliu608
-My student ID is 845101948
-In this term I have study:
-statistics 220
-statistics 125
-statistics 201
-computer science 225
+
+I am a student<,in this term I have study:.
+
+*statistic 220
+
+*statistic 201
+
+*statistic 125
+
+*computer science 225
+
+*physics 102
+
