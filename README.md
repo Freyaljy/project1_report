@@ -4,9 +4,9 @@
 
 I am a student, I have lot of habit:
 
-* drawing
+1. drawing
 
-* Broadcasting and hosting
+2. Broadcasting and hosting
 
 * swimming
 
