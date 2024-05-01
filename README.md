@@ -2,7 +2,7 @@
 
 *My name is jingyi Liu*
 
-I am a student<, I have lot of habit:
+I am a student, I have lot of habit:
 
 * drawing
 
